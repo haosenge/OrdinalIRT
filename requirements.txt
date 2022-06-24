@@ -1,0 +1,7 @@
+Cython==0.29.30
+matplotlib==3.5.2
+numba==0.55.2
+numpy==1.23.0
+pandas==1.4.3
+scipy==1.8.1
+setuptools==62.6.0

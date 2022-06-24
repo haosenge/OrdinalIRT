@@ -1,0 +1,12 @@
+analyze\ results.py
+*.pickle
+*.c
+*.so
+*/build/
+backup/
+result/
+debug\ script.py
+sample_E_R/
+.DS_Store
+__pycache__/
+.idea/
