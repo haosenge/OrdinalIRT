@@ -1,5 +1,5 @@
 This repo provides an efficient Gibbs Sampler for dynamic item response theory models with ordinal outcomes. An application can be found in 
-[Haosen Ge (2021) "Measuring Regulatory Barriers Using Annual Reports of Firms"](https://www.haosenge.net/_files/ugd/557840_049c5c9c59e0470f8ac192ba6611768d.pdf).
+[Haosen Ge (2021) "Measuring Regulatory Barriers Using Annual Reports of Firms"](https://www.haosenge.net/_files/ugd/557840_20bf6709b255488d8466ae0d59c47716.pdf).
 
 The model assumes the followiing data generating process:
 
