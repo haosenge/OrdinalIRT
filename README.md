@@ -1,3 +1,5 @@
+# Gibbs Sampler for Ordinal IRT Models
+
 This repo provides an efficient Gibbs Sampler for dynamic item response theory models with ordinal outcomes. An application can be found in 
 [Haosen Ge (2021) "Measuring Regulatory Barriers Using Annual Reports of Firms"](https://www.haosenge.net/_files/ugd/557840_20bf6709b255488d8466ae0d59c47716.pdf).
 
